@@ -1,4 +1,10 @@
 # Celestia node API
+
+[![Test Status](https://github.com/dipdup-net/celestia-node-api/workflows/tests/badge.svg)](https:/github.com/dipdup-net/celestia-node-api/actions?query=branch%3Amaster+workflow%3A%22tests%22)
+[![made_with golang](https://img.shields.io/badge/made_with-golang-blue.svg)](https://golang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Go Reference](https://pkg.go.dev/badge/github.com/dipdup-net/celestia-node-api.svg)](https://pkg.go.dev/github.com/dipdup-net/celestia-node-api)
+
 Golang wrapper over Celestia node API. Library implements API from the [docs](https://docs.celestia.org/developers/node-api).
 
 ## Install
@@ -8,8 +14,6 @@ go get github.com/dipdup-net/celestia-node-api
 ```
 
 ## Usage
-
-Full desription of the library can be found on [GoDoc](https://pkg.go.dev/github.com/dipdup-net/celestia-node-api)
 
 First, create API structure
 
