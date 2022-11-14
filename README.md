@@ -9,6 +9,8 @@ go get github.com/dipdup-net/celestia-node-api
 
 ## Usage
 
+Full desription of the library can be found on [GoDoc](https://pkg.go.dev/github.com/dipdup-net/celestia-node-api)
+
 First, create API structure
 
 ```go
